@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(49, 107, 136);
+    font-family: sans-serif;
+
+}
+
+h1{
+    text-align: center;
+    color: aquamarine;
+}
+
+p{
+    text-align: center;
+    color: aquamarine;
+
+}
+
+.sitat{
+    text-align: center;
+    color: rgb(19, 195, 51);
+    font-size: medium;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.overskrift{
+    margin-top: 50px;
+    font-size: large;
+    font-stretch: expanded;
+    
+}
+
+.bilde{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border-color: black;
+    border-width: thin;
+    border-style: groove;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
